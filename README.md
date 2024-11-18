@@ -70,7 +70,7 @@ O Rafael Car é um sistema de gestão de carros projetado para facilitar o cadas
 ### Configuração do Projeto  
 1. Clone o repositório:  
    bash
-   git clone https://github.com/seu-usuario/rafael-car.git
+   git clone https://github.com/rafaelvess/.
    
 2. Instale as dependências (se aplicável).  
 3. Configure as credenciais do banco de dados no arquivo config.php:  
@@ -80,7 +80,7 @@ O Rafael Car é um sistema de gestão de carros projetado para facilitar o cadas
    $username = 'seu_usuario';
    $password = 'sua_senha';
    
-4. Inicie o servidor local e acesse o sistema pelo navegador em http://localhost/rafael-car.
+4. Inicie o servidor local e acesse o sistema pelo navegador em http://localhost/loja-de-carros-Rafael.
 
 ---
 
@@ -92,14 +92,6 @@ O Rafael Car é um sistema de gestão de carros projetado para facilitar o cadas
   - PHP com PDO para interações com o banco de dados.
 - **Banco de Dados**:
   - MySQL.
-
----
-
-## 🗒 Roadmap Futuro
-
-- Implementação de autenticação com múltiplos níveis de acesso (administrador e usuário).
-- Adição de exportação de relatórios em PDF ou Excel.
-- Integração com APIs para obtenção automática de informações sobre veículos.
 
 ---
 
