@@ -70,7 +70,7 @@ O Rafael Car é um sistema de gestão de carros projetado para facilitar o cadas
 ### Configuração do Projeto  
 1. Clone o repositório:  
    bash
-   git clone https://github.com/rafaelvess/.
+   git clone https://github.com/rafaelvess.
    
 2. Instale as dependências (se aplicável).  
 3. Configure as credenciais do banco de dados no arquivo config.php:  
