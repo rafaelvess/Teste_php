@@ -64,8 +64,8 @@ O Rafael Car é um sistema de gestão de carros projetado para facilitar o cadas
 2. **Banco de Dados**: Certifique-se de que o MySQL está ativo.
 
 ### Configuração do Banco de Dados  
-1. Crie um banco de dados chamado rafael_car.  
-2. Importe o arquivo rafael_car.sql (localizado no diretório raiz do projeto) para configurar as tabelas necessárias.  
+1. Crie um banco de dados chamado rafaelcarros.  
+2. Importe o arquivo rafaelcarros.sql (localizado no diretório raiz do projeto) para configurar as tabelas necessárias.  
 
 ### Configuração do Projeto  
 1. Clone o repositório:  
